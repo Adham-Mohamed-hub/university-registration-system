@@ -5,7 +5,7 @@ This project is an interactive university registration system built with Python,
 
 ## 📺 Project Explanation Video
 You can watch the full explanation of the project and its features here:
-[👉 Click here to watch the Video 👈](حط_لينك_الدرايف_هنا)
+[👉 Click here to watch the Video 👈]([(https://drive.google.com/file/d/1VV7PoObI0B49XUErkInC3YE8mFlop0dR/view?usp=sharing)])
 
 ## ✨ Key Features
 - **Course Management:** Handles both Lectures and Labs.
